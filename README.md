@@ -7,9 +7,9 @@
 </br></br></br>
 
 # 프로젝트 구성원
-PM : 한양대학교 ERICA 소프트웨어학부 | 김동욱 </br>
-Member : 한양대학교 ERICA 소프트웨어학부 | 조현호 </br>
-Member : 한양대학교 ERICA 소프트웨어학부 | 유지성 </br>
+## PM : 한양대학교 ERICA 소프트웨어학부 | 김동욱 </br>
+## Member : 한양대학교 ERICA 소프트웨어학부 | 조현호 </br>
+## Member : 한양대학교 ERICA 소프트웨어학부 | 유지성 </br>
 </br></br></br>
 
 # 프로젝트 Flow 차트
@@ -60,9 +60,12 @@ Member : 한양대학교 ERICA 소프트웨어학부 | 유지성 </br>
     - 확인 버튼 클릭 시 APP 종료</br>
 </br></br></br>
 
-# 프로젝트 와이어프레임
 
+
+# 프로젝트 와이어프레임
+![와이어프레임](./Image/rummikub_WireFrame.png)
 </br></br></br>
 
 
 # 프로젝트 개발 아키텍처
+![개발 아키텍처](./Image/rummikub_architecture.png)
